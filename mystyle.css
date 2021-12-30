@@ -1,0 +1,159 @@
+* {
+    font-family: 'Lato', sans-serif;
+    box-sizing: border-box;
+}
+
+.header_body {
+    background: #293f50;
+    color: white;
+    background-size: cover;
+    width: 1145px;
+    height: 450px;
+}
+
+.style_conference {
+    font-size: 45px;
+    font-weight: 100;
+    display: inline;
+    width: 40%;
+    font-weight: 100;
+    margin-top: 30px;
+    margin-left: 120px;
+}
+
+.datetime_01 {
+    font-size: 22px;
+    color: #648880;
+    font-weight: 300
+}
+
+.right {
+    text-align: right;
+    font-weight: 400;
+    font-size: 14px;
+    margin-top: 30px;
+    margin-left: 70px;
+}
+
+.header_01 {
+    display: inline-flex;
+    height: 200px;
+    width: 1000px
+}
+
+.nav_01 a {
+    color: white;
+    text-decoration: none;
+    padding: 10px
+}
+
+.style_conference:hover,
+.nav_01 a:hover {
+    color: #648880;
+}
+
+.part_01,
+.part_02,
+.btn_regisnow {
+    text-align: center;
+    margin: 2px
+}
+
+.part_01 {
+    font-size: 35px;
+    color: #648880;
+    font-weight: 300;
+}
+
+.part_02 {
+    color: #fff;
+    font-size: 25px;
+    font-weight: 100;
+    margin-bottom: 55px;
+}
+
+.btn_regisnow {
+    border: 1px solid #fff;
+    border-radius: 8px;
+    padding: 25px;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    background: #293f50;
+    margin-left: 500px
+}
+
+.btn_regisnow:hover {
+    color: #648880;
+    text-decoration: none;
+    background: #fff
+}
+
+.main_header {
+    border-top: 0px;
+}
+
+.main_area {
+    display: inline-flex;
+    margin-left: 80px
+}
+
+.main_header {
+    color: #a9b2b9;
+    font-size: 14 px;
+    font-weight: 400;
+}
+
+.speaker,
+.schedule,
+.venue {
+    padding: 20px 10px 70px 50px;
+    color: #888;
+    font-weight: 300;
+}
+
+img {
+    display: block;
+    max-width: 250px;
+    max-height: 295px;
+    width: auto;
+    height: auto;
+    border-radius: 8px;
+}
+
+div a {
+    color: #648880;
+    text-decoration: none;
+    padding-top: 30px
+}
+
+div a:hover {
+    color: #a9b2b9
+}
+
+footer {
+    background: #293f50;
+    display: inline-flex;
+    width: 1135px;
+    height: 120px;
+    padding: 40px
+}
+
+footer p {
+    color: #648880;
+    font-size: 15px;
+    margin-left: 80px;
+    margin-right: 400px
+}
+
+.nav_02 a {
+    color: white;
+    text-decoration: none;
+    font-weight: 300;
+    font-size: 14px;
+    padding: 10px
+}
+
+.nav_02 a:hover {
+    color: #648880;
+}
